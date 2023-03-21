@@ -1,0 +1,32 @@
+/* Formateo de Estilos por defecto */
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+
+.formularios{
+    margin-right: 27px;
+    margin-top: -270px;
+    text-align: end;
+    font-style: oblique;
+    font-size: 17px;
+    font-family: 'Secular One', sans-serif;
+    color: yellow;
+}
+
+.encabezado{
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+    font-size: 23px;
+    color: yellow;
+}
+
+body{
+    backdrop-filter: blur(7px);
+    background-image: url(https://st3.depositphotos.com/4259987/18618/i/450/depositphotos_186184168-stock-photo-star-field-colorful-starry-night.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
